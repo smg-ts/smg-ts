@@ -1,0 +1,10 @@
+{
+  "name": "smg-ts_01",
+  "version": "1.0.0",
+  "private": "true",
+  "dependencies": {
+    "selenium-webdriver": "~4.0.0-beta.3",
+    "mocha": "~8.4.0"
+  },
+  "author": "smg-ts"
+}
