@@ -1,4 +1,4 @@
-const { Browser, By, Key, until } = require('selenium-webdriver')
+const { By, Key, until } = require('selenium-webdriver')
 const { ignore, suite } = require('selenium-webdriver/testing')
 
 suite(function (env) {
